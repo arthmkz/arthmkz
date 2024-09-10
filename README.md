@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+traveler%2C+I'm+Arthur;I'm+22+years+old;I+am+from+Campo+Mourão,+PR;I+study+Computer+Science+at+UTFPR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+traveler%2C+I'm+Arthur;I'm+23+years+old;I+am+from+Brazil;I+study+Computer+Science+at+UTFPR)](https://git.io/typing-svg)
 
 
 <div align="center">  
